@@ -1,0 +1,1 @@
+print('Eu amo programar em python, EU AMO PROGRAMAR EM PYTHON')
